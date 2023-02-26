@@ -1,0 +1,28 @@
+.menuPadding{
+    margin-right: 12px;
+}
+.fullWidth{
+    width: 100%;
+    padding: 0;
+    margin:0
+}
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-image: url('../images/banner.png');
+}
+.fill2 {
+    overflow: hidden;
+    background-size: cover;
+    background-image: url('../images/image 12.png');
+}
+.display-table{
+    display: table;
+    table-layout: fixed;
+}
+
+.display-cell{
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+}
